@@ -27,7 +27,7 @@ The jig isn't part of the keyboard itself but is used to assemble the layers of 
 
 You can engrave anything on the acrylic sheet; just provide an image to the vendor.
 
-If you have any ideas for fidget toys that devs would love to have on their table, just lmk and I'll try to forge it when I'm free. 
+If you have any ideas for fidget toys that devs would love to have on their table, just lmk and I'll try to forge it in my free time. 
 Connect with me on [Linkedin](https://www.linkedin.com/in/aswinpradeepc/) or on matrix :@aswinpradeepc:matrix.org.
 
 [Start the repo before you leave](https://youtu.be/dQw4w9WgXcQ)
