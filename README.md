@@ -31,3 +31,5 @@ If you have any ideas for fidget toys that devs would love to have on their tabl
 Connect with me on [Linkedin](https://www.linkedin.com/in/aswinpradeepc/) or on matrix :@aswinpradeepc:matrix.org.
 
 [Start the repo before you leave](https://youtu.be/dQw4w9WgXcQ)
+
+I'll upload the design files soon!
