@@ -25,9 +25,11 @@ Keycaps may rotate on the switch if their height isn't adjusted properly. They s
 
 The jig isn't part of the keyboard itself but is used to assemble the layers of acrylic sheets. Creating one is crucial because, without it, your sides will be misaligned. Apart from compromising the feel, placing the micro switch and keycap becomes challenging. 
 
+Feel free to make tweaks with the design but note that the keycaps are measured and designed to press fit, and the jig ensures perfect alignment. Sometimes, you might want to adjust dimensions based on the kerf or tolerance of the machines. 
+
 You can engrave anything on the acrylic sheet; just provide an image to the vendor.
 
-If you have any ideas for fidget toys that devs would love to have on their table, just lmk and I'll try to forge it in my free time. 
+If you have any ideas for fidget toys that hackers/devs would love to have on their table, just lmk and I'll try to forge it in my free time. 
 Connect with me on [Linkedin](https://www.linkedin.com/in/aswinpradeepc/) or on matrix :@aswinpradeepc:matrix.org.
 
 [Star the repo before you leave](https://youtu.be/dQw4w9WgXcQ)
