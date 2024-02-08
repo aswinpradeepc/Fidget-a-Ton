@@ -6,6 +6,6 @@ For those who are tweaking the keycap design, they may rotate on the switch if t
 
 Sometimes, you might want to adjust dimensions based on the tolerance of the printer.
 
-.f3d file is Autodesk Fusion 360 file, This file is editable.  
+.f3d file is Autodesk Fusion 360 file, this file is editable.  
 
 For printing, download the stl file and use a [slicer](https://en.wikipedia.org/wiki/Slicer_(3D_printing)) like [Cura](https://ultimaker.com/software/ultimaker-cura/). Cura is free and open-source. 
