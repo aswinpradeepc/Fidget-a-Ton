@@ -5,7 +5,6 @@ As the organizers of Make-A-Ton 6.0, our goal was to provide the best hacker exp
 <ul style="display:flex; list-style-type:none; padding:0;">
   <li style="margin-right:10px;"><img src="fidgetaton.jpeg" width="200"/></li>
   <li style="margin-right:10px;"><img src="fidget.jpeg" width="200"/></li>
-  <li><img src="image3.png" width="200"/></li>
 </ul>
 
 ## Machines Used
