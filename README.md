@@ -13,7 +13,7 @@ As the organizers of Make-A-Ton 6.0, our goal was to provide the best hacker exp
 
 - Acrylic sheet with a thickness of 3 mm
 - Acrylic glue
-- Micro switch: This is the easiest and most cost-effective way to achieve the clicky feel and that satisfying, short, and sharp sound – it truly enhances the entire experience 📈😂
+- Micro switch: This is the easiest and most cost-effective way to achieve the clicky feel and that satisfying, short, and sharp sound – it truly enhances the entire experience 📈
 - 3D printer filament: Used for the jig and keycaps.
 
 Cut the sheets, 3D print the jig and keycaps, purchase three micro switches of the correct size from an electronics store, assemble and start the clickety-clackety fun!
