@@ -2,10 +2,11 @@
 
 As the organizers of Make-A-Ton 6.0, our goal was to provide the best hacker experience. One of the ideas that popped up was to create a custom swag, as a memorable souvenir for participants at Make-A-Ton 6.0. So, I designed and "mass manufactured" 100 small keyboards featuring Ctrl, C, and V keys with a micro switch inside, for that satisfying "clicky" feel and sound. The design is really simple, and you can try making one at a nearby Fablab. The whole exp was really fun!
 
-
-<img src="fidgetaton.jpeg" >
-<img src="fidget.jpeg">
-
+<ul style="display:flex; list-style-type:none; padding:0;">
+  <li style="margin-right:10px;"><img src="fidgetaton.jpeg" width="200"/></li>
+  <li style="margin-right:10px;"><img src="fidget.jpeg" width="200"/></li>
+  <li><img src="image3.png" width="200"/></li>
+</ul>
 
 ## Machines Used
 
