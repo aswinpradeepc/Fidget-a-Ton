@@ -1,6 +1,10 @@
 # Fidget-A-Ton
 
 As the organizers of Make-A-Ton 6.0, our goal was to provide the best hacker experience. One of the ideas that popped up was to create a custom swag, as a memorable souvenir for participants at Make-A-Ton 6.0. So, I designed and "mass manufactured" 100 small keyboards featuring Ctrl, C, and V keys with a micro switch inside, for that satisfying "clicky" feel and sound. The design is really simple, and you can try making one at a nearby Fablab. The whole exp was really fun!
+
+<img src="fidgetaton.jpeg" width="100" height="100">
+<img src="fidget.jpeg" width="100" height="100">
+
 ## Machines Used
 
 - **3D Printer:** Find one at a Fablab in your college or from hacker communities like [TinkerSpace Kochi](https://www.tinkerhub.org/tinkerspace). Use it for printing the keycaps and the jig.
